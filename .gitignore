@@ -1,0 +1,12 @@
+logs/
+devel/
+build/
+*.csv
+*.las
+*.mat
+*.asv
+*.bag
+*.stl
+*.dae
+*.step
+.vscode/
